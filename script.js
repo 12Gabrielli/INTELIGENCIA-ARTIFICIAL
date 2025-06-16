@@ -9,41 +9,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 //com os atributos texto e afirmação
 const perguntas = [
     {
-        enunciado: "Qual a importância do 2PAC na cultura de plantações e ervas medicinais indigenas?",
+        enunciado: "Quais práticas tradicionais africanas utilizam ervas medicinais e também envolvem o uso de substâncias psicoativas na cultura local?
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "Rituais de iniciação que usam ervas medicinais e substâncias naturais para induzir estados alterados de consciência.
+            afirmacao: "verdadeira" 
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "Uso de chás de ervas para tratamentos de saúde, sem qualquer relação com práticas espirituais ou uso de drogas.
+            afirmacao: "verdadeira" 
             },
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Quais elementos são comuns na cultura africana ao integrar o uso de ervas medicinais e o consumo de drogas tradicionais? 
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "Rituais de cura que utilizam ervas medicinais e substâncias tradicionais para equilibrar o corpo e a mente. 
+            afirmacao: "verdadeira"
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "Práticas de consumo de drogas ilícitas sem relação com a medicina tradicional ou rituais espirituais. 
+            afirmacao: "verdadeira" 
             },
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Quais aspectos da cultura africana envolvem o uso de ervas medicinais e também o consumo de substâncias que podem ser consideradas drogas? 
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: " Festivais e rituais que utilizam ervas medicinais e substâncias psicoativas para promover a conexão espiritual 
+            afirmacao: "verdadeira" 
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "Uso de remédios naturais para tratamentos de saúde, sem qualquer uso de drogas ou substâncias psicoativas. 
+            afirmacao: "verdadeira"
             },
         ]
     },
